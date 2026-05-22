@@ -1,9 +1,9 @@
-package aula1;
+package exemplos;
 
 
 import java.util.Locale;
 
-public class exercicioDeFixacao {
+public class exemplo01 {
     public static void main (String[] args){
         String product1 = "Computer";
         String product2 = "Office desk";
