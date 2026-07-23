@@ -1,0 +1,26 @@
+# Estrutura Sequencial
+
+Nesta seção estudei os fundamentos da programação em Java utilizando estruturas sequenciais.
+
+## Conteúdos estudados
+
+- Entrada de dados com Scanner
+- Saída de dados (`print`, `println` e `printf`)
+- Variáveis
+- Tipos primitivos
+- Operações matemáticas
+- Casting
+- Expressões aritméticas
+- Ordem de precedência
+- Classe Math
+- Locale
+
+## Estrutura da pasta
+
+- **exemplos/** → exemplos apresentados durante as aulas.
+- **exercicios/** → exercícios resolvidos do curso.
+- **mini-projetos/** → pequenos projetos para praticar os conceitos aprendidos.
+
+## Objetivo
+
+Construir uma base sólida em Java antes de avançar para estruturas condicionais e repetitivas.
